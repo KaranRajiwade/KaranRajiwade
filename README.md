@@ -21,8 +21,6 @@
 
 ---
 
-## 🚀 Tech Stack
-
 <h3 align="center">🚀 Tech Stack</h3>
 
 <p align="center">
@@ -50,7 +48,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center"> 📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KaranRajiwade&show_icons=true&theme=radical" alt="Karan's GitHub Stats"/>
@@ -59,19 +57,13 @@
 
 ---
 
-### 🎯 Random Dev Quote
+<h3 align="center">🎯 Random Dev Quote</h3>
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-### 😂 Random Developer Meme
-
-![Dev Meme](https://meme-api.com/gimme/programmingmemes)
-
----
-
-### 📫 Connect with Me
+<h3 align="center">📫 Connect with Me</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/karan-rajiwade/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="karan-rajiwade" height="30" width="40" /></a>
