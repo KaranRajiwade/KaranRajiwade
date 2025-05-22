@@ -55,8 +55,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KaranRajiwade&show_icons=true&theme=radical" alt="Karan's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranRajiwade&theme=radical" alt="Karan's GitHub Streak"/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KaranRajiwade&theme=react-dark" alt="Karan's GitHub Activity Graph"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranRajiwade&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Karan's GitHub Streak"/>
 
 ---
 
